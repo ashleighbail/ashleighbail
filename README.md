@@ -14,7 +14,4 @@ I'm currently using GitHub as part of **MB5370 – Techniques in Marine Science*
 to document practical work and develop skills in managing, analysing and 
 presenting marine science data.
 
-[View the MB5370 repository](YOUR-REPOSITORY-LINK)
-
-##### Tools & Skills
-- Spatial data in R
+📌 See pinned repositories below for each module.
