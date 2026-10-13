@@ -15,3 +15,7 @@ to document practical work and develop skills in managing, analysing and
 presenting marine science data.
 
 📌 See pinned repositories below for each module.
+
+A companion ePortfolio presents the completed workshop activities and reflections which document the development and application of technical skills throughout the subject.
+
+[View the MB5370 ePortfolio](https://sites.google.com/bail.id.au/mb5370/home)
