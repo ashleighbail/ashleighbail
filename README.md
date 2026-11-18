@@ -14,7 +14,7 @@ I'm currently using GitHub as part of **MB5370 – Techniques in Marine Science*
 to document practical work and develop skills in managing, analysing and 
 presenting marine science data.
 
-📌 See pinned repositories below for each module.
+📌 See pinned repositories below to access each module.
 
 A companion ePortfolio presents the completed workshop activities and reflections which document the development and application of technical skills throughout the subject.
 
