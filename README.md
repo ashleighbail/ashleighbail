@@ -2,11 +2,11 @@
 
 I'm currently completing a **Master of Marine Biology**, with interests spanning marine ecology and environmental management.
 
-With an undergraduate background in **Agricultural Science**, I bring an understanding of terrestrial production systems and their connections with coastal and marine environments. This has shaped my interest in environmental management across land and sea, alongside my interests in macroalgal ecology, environmental change, and the policy and social dimensions of marine stewardship.
+With an undergraduate background in **Agricultural Science**, I bring an understanding of terrestrial production systems and their connections with coastal and marine environments. This has shaped my interest in environmental management across land and sea, alongside my interests in macroalgal ecology, environmental change, and the policy and social dimensions of marine stewardship. 
 
 This GitHub is a collection of my university work, data analysis and projects developed throughout my studies.
 
-#### Current Work
+#### Current Work 👇
 
 ### MB5370 – Techniques in Marine Science
 
@@ -20,4 +20,7 @@ A companion ePortfolio presents the completed workshop activities and reflection
 
 [View the MB5370 ePortfolio](https://sites.google.com/bail.id.au/mb5370/home)
 
-[Connect with me on LinkedIn](https://au.linkedin.com/in/ashleigh-bail-3b6a80218)
+____
+
+Connect with me on [LinkedIn](https://au.linkedin.com/in/ashleigh-bail-3b6a80218) or [email me](mailto:ashleigh.bail@my.jcu.edu.au) to discuss shared interests in land–sea connections, environmental stewardship or research opportunities.
+
