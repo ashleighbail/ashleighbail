@@ -19,3 +19,5 @@ presenting marine science data.
 A companion ePortfolio presents the completed workshop activities and reflections which document the development and application of technical skills throughout the subject.
 
 [View the MB5370 ePortfolio](https://sites.google.com/bail.id.au/mb5370/home)
+
+[Connect with me on LinkedIn](https://au.linkedin.com/in/ashleigh-bail-3b6a80218)
